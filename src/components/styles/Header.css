@@ -1,0 +1,21 @@
+body {
+    margin: auto;
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+.header-style {
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+}
+.memory-title {
+    margin-left: 70px;
+    text-align: left;
+}
+.scoreboard-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
