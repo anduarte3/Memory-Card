@@ -4,11 +4,12 @@ import './styles/Card.css'
 //Card container passes props of the card
 
 const Card = (props) => {
+  const { handleGameLogic, card, title } = props;
 
   return (
     <div className='card-align'>
-      <button className="button-op">
-        <img src={props.card} alt={props.title}/>
+      <button className="button-op" onClick={handleGameLogic}>
+        <img src={card} alt={title}/>
       </button>
 
     </div>
