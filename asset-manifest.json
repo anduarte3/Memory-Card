@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c49539a.css",
-    "main.js": "/static/js/main.778a1250.js",
-    "static/media/marco.jpg": "/static/media/marco.5ddb644e8a82a7179b27.jpg",
-    "static/media/sanji.jpg": "/static/media/sanji.527933b62e1fed61f2eb.jpg",
-    "static/media/ace.jpg": "/static/media/ace.e925ab62ffe2f459046b.jpg",
-    "static/media/zoro.jpg": "/static/media/zoro.fb2bdff03600684677b4.jpg",
-    "static/media/nami.jpg": "/static/media/nami.a23ad11ae55e806c2367.jpg",
-    "static/media/usopp.jpg": "/static/media/usopp.50d9aaea1f21c043bf88.jpg",
-    "static/media/shanks.jpg": "/static/media/shanks.e37100eacb331660ddf9.jpg",
-    "static/media/crocodile.jpg": "/static/media/crocodile.330565e4142136fff80b.jpg",
-    "static/media/robin.jpg": "/static/media/robin.1f667fb1264679adec2e.jpg",
-    "static/media/luffy.jpg": "/static/media/luffy.525a418b07b1e43c4bd0.jpg",
-    "index.html": "/index.html",
-    "main.0c49539a.css.map": "/static/css/main.0c49539a.css.map",
-    "main.778a1250.js.map": "/static/js/main.778a1250.js.map"
+    "main.css": "/Memory-Card/static/css/main.0c49539a.css",
+    "main.js": "/Memory-Card/static/js/main.2d090b6b.js",
+    "static/media/marco.jpg": "/Memory-Card/static/media/marco.5ddb644e8a82a7179b27.jpg",
+    "static/media/sanji.jpg": "/Memory-Card/static/media/sanji.527933b62e1fed61f2eb.jpg",
+    "static/media/ace.jpg": "/Memory-Card/static/media/ace.e925ab62ffe2f459046b.jpg",
+    "static/media/zoro.jpg": "/Memory-Card/static/media/zoro.fb2bdff03600684677b4.jpg",
+    "static/media/nami.jpg": "/Memory-Card/static/media/nami.a23ad11ae55e806c2367.jpg",
+    "static/media/usopp.jpg": "/Memory-Card/static/media/usopp.50d9aaea1f21c043bf88.jpg",
+    "static/media/shanks.jpg": "/Memory-Card/static/media/shanks.e37100eacb331660ddf9.jpg",
+    "static/media/crocodile.jpg": "/Memory-Card/static/media/crocodile.330565e4142136fff80b.jpg",
+    "static/media/robin.jpg": "/Memory-Card/static/media/robin.1f667fb1264679adec2e.jpg",
+    "static/media/luffy.jpg": "/Memory-Card/static/media/luffy.525a418b07b1e43c4bd0.jpg",
+    "index.html": "/Memory-Card/index.html",
+    "main.0c49539a.css.map": "/Memory-Card/static/css/main.0c49539a.css.map",
+    "main.2d090b6b.js.map": "/Memory-Card/static/js/main.2d090b6b.js.map"
   },
   "entrypoints": [
     "static/css/main.0c49539a.css",
-    "static/js/main.778a1250.js"
+    "static/js/main.2d090b6b.js"
   ]
 }
