@@ -7,20 +7,20 @@ body {
     flex-wrap: wrap;
 }
 button {
-    background-color: darkslateblue;
-    height: 450px;
-    width: 450px;
+    background-color: #9dfcba;
+    height: 430px;
+    width: 430px;
     border-radius: 20px;
     margin: 10px;
 }
 button:hover {
-    opacity: 0.8;
+    background-image: linear-gradient(rgb(0 0 0/40%) 0 0);
 }
 img {
-    height: 380px;
-    width: 380px;
+    height: 420px;
+    width: 420px;
     object-fit: cover;
     box-sizing: border-box;
-    border-radius: 1px;
+    border-radius: 20px;
     padding: 5px;
 }
